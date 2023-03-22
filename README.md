@@ -1,4 +1,14 @@
-### Hi there 👋
+# Prazer, Ste Gregorio!:v:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stegregorio&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stegregorio&layout=compact)
+
+# Carreira
+
+### [ Universo Dev ]
+
+### [ Avançando ]
+
 
 <!--
 **stegregorio/stegregorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
