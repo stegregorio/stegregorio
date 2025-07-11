@@ -1,7 +1,9 @@
-# Prazer, Ste Gregorio!:v:
+# Prazer, Ste Gregorio! :v:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stegregorio&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stegregorio&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stegregorio&layout=compact)
+![roadmap.sh](https://roadmap.sh/card/wide/687183d73ed27010bdc4d411?variant=dark)
 
 # Carreira
 
